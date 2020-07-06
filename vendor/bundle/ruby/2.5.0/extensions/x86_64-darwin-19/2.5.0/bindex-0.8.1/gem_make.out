@@ -1,0 +1,15 @@
+current directory: /Users/tomoyuki./dev/go/src/github.com/tomoyukikino/_Docker_Rails-tutorial-2/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/tomoyuki./.rbenv/versions/2.5.8/bin/ruby -r ./siteconf20200706-38790-1hrwghb.rb extconf.rb
+creating Makefile
+
+current directory: /Users/tomoyuki./dev/go/src/github.com/tomoyukikino/_Docker_Rails-tutorial-2/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/tomoyuki./dev/go/src/github.com/tomoyukikino/_Docker_Rails-tutorial-2/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/tomoyuki./dev/go/src/github.com/tomoyukikino/_Docker_Rails-tutorial-2/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20200706-38790-7baucv/skiptrace/internal
