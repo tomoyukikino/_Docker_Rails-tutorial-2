@@ -1,0 +1,18 @@
+current directory: /Users/tomoyuki./dev/go/src/github.com/tomoyukikino/_Docker_Rails-tutorial-2/vendor/bundle/ruby/2.5.0/gems/jaro_winkler-1.5.4/ext/jaro_winkler
+/Users/tomoyuki./.rbenv/versions/2.5.8/bin/ruby -r ./siteconf20200707-2857-m6j4ep.rb extconf.rb
+creating Makefile
+
+current directory: /Users/tomoyuki./dev/go/src/github.com/tomoyukikino/_Docker_Rails-tutorial-2/vendor/bundle/ruby/2.5.0/gems/jaro_winkler-1.5.4/ext/jaro_winkler
+make "DESTDIR=" clean
+
+current directory: /Users/tomoyuki./dev/go/src/github.com/tomoyukikino/_Docker_Rails-tutorial-2/vendor/bundle/ruby/2.5.0/gems/jaro_winkler-1.5.4/ext/jaro_winkler
+make "DESTDIR="
+compiling adj_matrix.c
+compiling codepoints.c
+compiling jaro.c
+compiling jaro_winkler.c
+linking shared-object jaro_winkler/jaro_winkler_ext.bundle
+
+current directory: /Users/tomoyuki./dev/go/src/github.com/tomoyukikino/_Docker_Rails-tutorial-2/vendor/bundle/ruby/2.5.0/gems/jaro_winkler-1.5.4/ext/jaro_winkler
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 jaro_winkler_ext.bundle ./.gem.20200707-2857-twtlez/jaro_winkler
